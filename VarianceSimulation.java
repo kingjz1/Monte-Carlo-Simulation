@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class VarianceSimulation {
-
+	
+	//Approximate the variance of the random variable X/(1+Z^2) where X and Z are independent standard Gaussian random variables
 	public static ArrayList<Double> getRandGaussianNums (int k){
 		ArrayList<Double> randUs = new ArrayList<>();
 		Random rand = new Random();
