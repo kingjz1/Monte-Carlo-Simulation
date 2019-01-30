@@ -1,2 +1,2 @@
 # Monte-Carlo-Simulation
-Use Monte Carlo simulation to approximate the variance of a random variable
+Uses Monte Carlo simulation to approximate the variance of a random variable
